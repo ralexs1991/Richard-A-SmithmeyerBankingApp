@@ -6,7 +6,9 @@ function Home() {
             header="BadBank Home Page"
             title="Welcome to the Bank!"
             text="Log In to Begin"
-            body={(<img src="bank.png" className="img-fluid" alt="Responsive image"/>)}
+            body={(<img src="bank.png" className="img-fluid" 
+        //alt="Responsive image"
+        />)}
             />
     );
 }
