@@ -7,7 +7,7 @@ function Home() {
             title="Welcome to the Bank!"
             text="Log In to Begin"
             body={(<img src="bank.png" className="img-fluid" 
-        //alt="Responsive image"
+        
         />)}
             />
     );
